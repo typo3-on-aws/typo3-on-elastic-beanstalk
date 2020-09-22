@@ -1,0 +1,7 @@
+files:
+  "/home/ec2-user/.ssh/authorized_keys":
+    mode: "000600"
+    owner: ec2-user
+    group: ec2-user
+    content: |
+      ssh-rsa AAAAB... user@example.com
